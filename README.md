@@ -1,2 +1,1 @@
-# BAAZiGAR
-Hackathon AIT Pune
+# Cred-Internship-Drive
